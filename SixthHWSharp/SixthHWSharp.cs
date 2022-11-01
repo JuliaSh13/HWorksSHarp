@@ -44,7 +44,7 @@ Console.WriteLine($"The count of numbers: {countNum}");
 */
 
 // Задача 43: Напишите программу, которая найдёт точку пересечения двух прямых, заданных уравнениями y = k1 * x + b1, y = k2 * x + b2; значения b1, k1, b2 и k2 задаются пользователем.
-
+/*
 Console.Write("Input a value of b1: ");
 double b1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Input a value of k1: ");
@@ -58,4 +58,4 @@ double x = -(b1 - b2) / (k1 - k2);
 double y = k1 * x + b1;
 
 Console.WriteLine($"Coordinates of the intersection point of the lines:({x};{y}).");
-
+*/
